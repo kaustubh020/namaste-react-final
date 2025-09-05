@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-final",
+  "version": "1.0.0",
+  "description": "this is namaste react ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh020/namaste-react-final.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kaustubh_bhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh020/namaste-react-final/issues"
+  },
+  "homepage": "https://github.com/kaustubh020/namaste-react-final#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
